@@ -1,0 +1,5 @@
+# input ('prompt')
+r = int(input ("enter radius of circle: (☞ﾟヮﾟ)☞"))
+area= 22/7* (r**2)
+print(f'radius of circle is {r}')
+print(area)
